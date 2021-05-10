@@ -1,0 +1,12 @@
+.layout {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-bar {
+    background: yellow;
+}
+
+.right-bar {
+    background: #61dafb;
+}
